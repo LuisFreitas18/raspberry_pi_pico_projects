@@ -1,2 +1,4 @@
 # raspberry_pi_pico_projects
-arduino / micropython / c
+arduino .ino - (Arduino IDE)
+micropython - (Thonny)
+c - ()
